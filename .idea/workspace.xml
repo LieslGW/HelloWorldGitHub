@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0a99573-ece4-4daa-9bcd-ddd37ecb872b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
@@ -66,10 +65,39 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581941922542">
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1581943540525">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581941922542" />
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581943540525" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1581943540525">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581943540525" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1581943540524">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581943540524" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1581943540525">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581943540525" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1582095310123">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582095310123" />
   </component>
 </project>
